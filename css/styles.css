@@ -1,0 +1,8 @@
+.loading {
+	margin: 50px auto;
+	display: block;
+}
+
+body canvas {
+	margin: 0px auto;
+}

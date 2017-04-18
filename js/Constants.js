@@ -1,2 +1,3 @@
-var C_IMGDIR = "nmc/img/";
-var C_JSDIR = "nmc/js/";
+class Constants {
+	static get Imgdir() { return "nmc/img/"; }
+}
